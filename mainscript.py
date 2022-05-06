@@ -4,7 +4,7 @@ import time
 import os
 import sys
 import subprocess
-
+import platform
 
 from splinter import Browser
 from selenium import webdriver
